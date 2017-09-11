@@ -1,0 +1,65 @@
+body {
+    background-color: lightblue;
+}
+
+span
+{
+    background-color: antiquewhite;
+    color: green;
+    font-size: 20px;
+    font-family: Comic Sans MS;
+}
+
+h1 {
+    color: green;
+    text-shadow: 2px 2px darkgreen;
+    background-color: black;
+    text-align: center;
+    font-size: 60px;
+    position: relative;
+    top: -40px;
+}
+
+/*h2 {
+    color: orange;
+    text-shadow: 2px 2px #ff00b6;
+}*/
+
+h4 {
+    color: yellow;
+
+}
+
+a {
+    width: 800px;
+    height: 300px;
+}
+
+.image1 {
+    width: 230px;
+    height: 230px;
+    /*webkit-animation: spin 10s linear infinite;*/
+    /*-moz-animation: spin 10s linear infinite;*/
+    /*animation: spin 10s linear infinite;*/
+
+}
+
+/*
+@-moz-keyframes spin {
+    100% {
+        -moz-transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}*/
